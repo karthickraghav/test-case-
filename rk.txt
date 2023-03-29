@@ -1,0 +1,3 @@
+ git config --global user.email "karthickauditory@gmail.com"
+  git config --global user.name "karthickraghav"
+git remote add origin https://github.com/karthickraghav/test-case-.git
